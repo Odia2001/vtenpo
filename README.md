@@ -4,10 +4,10 @@
 <img hight="200" width="280" alt="GIF" align="right" src="https://github.com/VVP-dot/vtenpo/blob/main/ken.gif">
 
 
-### Learning
+### Learnin
 - 🔰 Data analysic
 - 🔰 Machine Learning
-- 🔰 Shell Scripting
+- 🔰 Big Boobs
 - 🔰 Bug Bounty
 
 It's one thing to question your mind; it's another to question your eyes and ears. 
